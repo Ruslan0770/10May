@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\NEWtask\NEWtask\bin\Debug\netcoreapp3.1\NEWtask.exe
+C:\Users\Admin\source\repos\NEWtask\NEWtask\bin\Debug\netcoreapp3.1\NEWtask.deps.json
+C:\Users\Admin\source\repos\NEWtask\NEWtask\bin\Debug\netcoreapp3.1\NEWtask.runtimeconfig.json
+C:\Users\Admin\source\repos\NEWtask\NEWtask\bin\Debug\netcoreapp3.1\NEWtask.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\NEWtask\NEWtask\bin\Debug\netcoreapp3.1\NEWtask.dll
+C:\Users\Admin\source\repos\NEWtask\NEWtask\bin\Debug\netcoreapp3.1\NEWtask.pdb
+C:\Users\Admin\source\repos\NEWtask\NEWtask\obj\Debug\netcoreapp3.1\NEWtask.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\NEWtask\NEWtask\obj\Debug\netcoreapp3.1\NEWtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\NEWtask\NEWtask\obj\Debug\netcoreapp3.1\NEWtask.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\NEWtask\NEWtask\obj\Debug\netcoreapp3.1\NEWtask.AssemblyInfo.cs
+C:\Users\Admin\source\repos\NEWtask\NEWtask\obj\Debug\netcoreapp3.1\NEWtask.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NEWtask\NEWtask\obj\Debug\netcoreapp3.1\NEWtask.dll
+C:\Users\Admin\source\repos\NEWtask\NEWtask\obj\Debug\netcoreapp3.1\NEWtask.pdb
+C:\Users\Admin\source\repos\NEWtask\NEWtask\obj\Debug\netcoreapp3.1\NEWtask.genruntimeconfig.cache
